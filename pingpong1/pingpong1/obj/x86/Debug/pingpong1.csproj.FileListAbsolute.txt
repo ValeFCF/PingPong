@@ -1,0 +1,9 @@
+c:\users\vale\documents\visual studio 2010\Projects\pingpong1\pingpong1\pingpong1\bin\x86\Debug\Content\barra.xnb
+c:\users\vale\documents\visual studio 2010\Projects\pingpong1\pingpong1\pingpong1\bin\x86\Debug\pingpong1.exe
+c:\users\vale\documents\visual studio 2010\Projects\pingpong1\pingpong1\pingpong1\bin\x86\Debug\pingpong1.pdb
+c:\users\vale\documents\visual studio 2010\Projects\pingpong1\pingpong1\pingpong1\obj\x86\Debug\pingpong1.csprojResolveAssemblyReference.cache
+c:\users\vale\documents\visual studio 2010\Projects\pingpong1\pingpong1\pingpong1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\vale\documents\visual studio 2010\Projects\pingpong1\pingpong1\pingpong1\obj\x86\Debug\pingpong1.exe
+c:\users\vale\documents\visual studio 2010\Projects\pingpong1\pingpong1\pingpong1\obj\x86\Debug\pingpong1.pdb
+c:\users\vale\documents\visual studio 2010\Projects\pingpong1\pingpong1\pingpong1\bin\x86\Debug\Content\pentag.xnb
+C:\Users\Vale\Documents\Visual Studio 2010\Projects\pingpong1\pingpong1\pingpong1\bin\x86\Debug\Content\coli.xnb

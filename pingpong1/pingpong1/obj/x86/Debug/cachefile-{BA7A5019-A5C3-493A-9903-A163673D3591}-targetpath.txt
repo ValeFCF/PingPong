@@ -1,0 +1,3 @@
+Content\barra.xnb
+Content\pentag.xnb
+Content\coli.xnb
